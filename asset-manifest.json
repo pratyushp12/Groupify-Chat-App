@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Groupify-Chat-App/static/css/main.a2e944e4.chunk.css",
+    "main.js": "/Groupify-Chat-App/static/js/main.b6621f7c.chunk.js",
+    "main.js.map": "/Groupify-Chat-App/static/js/main.b6621f7c.chunk.js.map",
+    "runtime-main.js": "/Groupify-Chat-App/static/js/runtime-main.319fe8d6.js",
+    "runtime-main.js.map": "/Groupify-Chat-App/static/js/runtime-main.319fe8d6.js.map",
+    "static/js/2.74a537c8.chunk.js": "/Groupify-Chat-App/static/js/2.74a537c8.chunk.js",
+    "static/js/2.74a537c8.chunk.js.map": "/Groupify-Chat-App/static/js/2.74a537c8.chunk.js.map",
+    "index.html": "/Groupify-Chat-App/index.html",
+    "static/css/main.a2e944e4.chunk.css.map": "/Groupify-Chat-App/static/css/main.a2e944e4.chunk.css.map",
+    "static/js/2.74a537c8.chunk.js.LICENSE.txt": "/Groupify-Chat-App/static/js/2.74a537c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.319fe8d6.js",
+    "static/js/2.74a537c8.chunk.js",
+    "static/css/main.a2e944e4.chunk.css",
+    "static/js/main.b6621f7c.chunk.js"
+  ]
+}
